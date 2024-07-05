@@ -1,1 +1,23 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024 Wolfgang Mueller
+# This file is distributed under the same license as the Test-UbuntuTouch-App.wolfgang package.
+# Wolfgang Mueller wolfgang.mueller@mail.mcgill.ca, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test-UbuntuTouch-App.wolfgang\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-05 21:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:32 Test-UbuntuTouch-App.desktop.in.h:1
+msgid "Tes-UbuntuTouch-App"
+msgstr ""
 
